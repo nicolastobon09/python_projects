@@ -18,7 +18,7 @@ def run():
     if result is True:
         print(f"{word} is palindrome")
     else:
-        print(f"{word} no is palindrome")
+        print(f"{word} is no palindrome")
 
 
 if __name__ == "__main__":
